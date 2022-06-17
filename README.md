@@ -1,3 +1,3 @@
 # DocBook
-Proyecto de Programacion V
-Este sera el repositorio de nuestra app DocBook como proyecto para programacion V
+
+Este sera el repositorio de Codigo nuestra app DocBook como proyecto para programacion V
